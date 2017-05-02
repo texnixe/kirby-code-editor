@@ -61,16 +61,16 @@
   </div>
 
 </div>
-<?= js(url() . '/site/plugins/code-editor/assets/codemirror.js') ?>
-<?= css(url() . '/site/plugins/code-editor/assets/codemirror.css') ?>
-<?= js(url() . '/site/plugins/code-editor/assets/xml.js') ?>
-<?= js(url() . '/site/plugins/code-editor/assets/javascript.js') ?>
-<?= js(url() . '/site/plugins/code-editor/assets/css.js') ?>
-<?= js(url() . '/site/plugins/code-editor/assets/htmlmixed.js') ?>
-<?= js(url() . '/site/plugins/code-editor/assets/clike.js') ?>
+<?= js(url() . '/site/plugins/code-editor/assets/js/codemirror.js') ?>
+<?= css(url() . '/site/plugins/code-editor/assets/css/codemirror.css') ?>
+<?= js(url() . '/site/plugins/code-editor/assets/js/xml.js') ?>
+<?= js(url() . '/site/plugins/code-editor/assets/js/javascript.js') ?>
+<?= js(url() . '/site/plugins/code-editor/assets/js/css.js') ?>
+<?= js(url() . '/site/plugins/code-editor/assets/js/htmlmixed.js') ?>
+<?= js(url() . '/site/plugins/code-editor/assets/js/clike.js') ?>
 
-<?= js(url() . '/site/plugins/code-editor/assets/yaml.js') ?>
-<?= js(url() . '/site/plugins/code-editor/assets/php.js') ?>
+<?= js(url() . '/site/plugins/code-editor/assets/js/yaml.js') ?>
+<?= js(url() . '/site/plugins/code-editor/assets/js/php.js') ?>
 <script>
   var myCodeMirror = CodeMirror(function(elt) {
     $('.field-content').append(elt);
