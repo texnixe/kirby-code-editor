@@ -1,6 +1,6 @@
 # Kirby Code Editor
 
-Experimental plugin (pre-alpha). Don't blame me if you havock your Kirby installation.
+Experimental plugin (pre-alpha). Don't blame me if you havoc your Kirby installation.
 
 Edit blueprints, templates and snippets in the Panel.
 
