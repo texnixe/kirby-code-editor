@@ -1,0 +1,12 @@
+{
+  "name": "code-editor",
+  "version": "0.1.0",
+  "description": "Kirby Code Editor Plugin",
+  "author": "Sonja Broda <sonja@texniq.de>",
+  "license": "MIT",
+  "type": "kirby-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/texnixe/kirby-code-editor"
+  },
+}
