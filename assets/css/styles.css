@@ -1,0 +1,7 @@
+.active {
+font-weight: bold;
+}
+
+h2 + ul {
+  display: none;
+}
